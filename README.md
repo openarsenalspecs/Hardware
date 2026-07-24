@@ -53,7 +53,7 @@ LAVE is an open-source human-scale hover research platform exploring distributed
 [https://roxanneardary.com/totalremote/](https://roxanneardary.com/totalremote/)  
 TotalRemote is an open-source universal TV control system that unifies IR, HDMI-CEC, smart TV APIs, and plugins into one platform for multi-device control. It features automatic discovery, fallback methods, and smart home integration (e.g., Home Assistant).
 
-- **Trionyx**  
+- [**Trionyx Module Specification**](https://github.com/openarsenalspecs/Hardware/blob/56b8d50e30f971ab8792304a710197b3ed479c71/Trionyx.md)    
 [https://roxanneardary.com/trionyx/](https://roxanneardary.com/trionyx/)  
 Trionyx is a multi-agent robotic fleet intelligence and scheduling platform for coordinating autonomous systems in warehouses/industry via real-time task orchestration, shared world models, and simulation-first validation. It is robot-agnostic with ROS2 support and traffic management.
 
