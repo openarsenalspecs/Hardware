@@ -49,7 +49,7 @@ KineticKind is an open-source accessibility-first SUV platform with intelligent 
 [https://roxanneardary.com/lave/](https://roxanneardary.com/lave/)  
 LAVE is an open-source human-scale hover research platform exploring distributed electric thrust, stabilization, and low-altitude flight with modular ducted units, real-time sensors, and safety systems. It emphasizes telemetry, digital twins, and transparent experimentation for reproducible research.
 
-- **TotalRemote**  
+- [**TotalRemote Module Specifications**](https://github.com/openarsenalspecs/Hardware/blob/9e98873dfbd64e60e2bbeab27c91f005fbdc66db/TotalRemote.md)    
 [https://roxanneardary.com/totalremote/](https://roxanneardary.com/totalremote/)  
 TotalRemote is an open-source universal TV control system that unifies IR, HDMI-CEC, smart TV APIs, and plugins into one platform for multi-device control. It features automatic discovery, fallback methods, and smart home integration (e.g., Home Assistant).
 
