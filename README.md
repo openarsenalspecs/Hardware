@@ -29,7 +29,7 @@ CircuitPath is an open-source advanced packaging and chiplet connectivity framew
 [https://roxanneardary.com/circulis-aqua/](https://roxanneardary.com/circulis-aqua/)  
 Circulis Aqua is a modular, AI-assisted water infrastructure design system using graph-based models for desalination, purification, reuse, and geospatial distribution that scales from homes to regional grids. It includes AI optimization, predictive maintenance, and dynamic rerouting for resilient, closed-loop water networks.
 
-- **CNC Companion**  
+- [**CNC Companion Module Specifications**](https://github.com/openarsenalspecs/Hardware/blob/12ddaf58bd331caadd1e6357f58a76156d48e8d5/CNC%20Companion.md)  
 [https://roxanneardary.com/cnc-companion/](https://roxanneardary.com/cnc-companion/)  
 CNC Companion is an open-source AI-powered tutor for machinists that delivers step-by-step guidance, real-time computer vision feedback, and adaptive learning for CNC and shop floor machines. It tracks skills, incorporates safety monitoring, tool detection, simulation/AR tools, and community contributions under AGPLv3.
 
