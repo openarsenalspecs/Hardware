@@ -59,6 +59,13 @@ Trionyx is a multi-agent robotic fleet intelligence and scheduling platform for 
 
 ---
 
+# Specification Branding License (SBL)
+
+Buy the Basket: [https://roxanneardary.com/hardware/](https://roxanneardary.com/hardware/)  
+
+---
+
+
 ## License & Notice Requirements
 
 Open Arsenal Hardware Specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.  By contributing to any Open Arsenal project, you agree that your contributions will also be released under this license.
