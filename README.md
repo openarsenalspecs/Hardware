@@ -21,6 +21,10 @@ At the deployment level, the architecture prioritizes interoperability, scalabil
 
 # Hardware Specs
 
+- **Autonomous Loop** 
+[https://roxanneardary.com/autonomous-loop/](https://roxanneardary.com/autonomous-loop/)  
+A self-hosted Continuous Improvement Operating System for air-gapped AI factories that enables organizations to monitor, evaluate, govern, and continuously improve AI systems while keeping data and intelligence workflows under their control.
+
 - **CircuitPath**  
 [https://roxanneardary.com/circuitpath/](https://roxanneardary.com/circuitpath/)  
 CircuitPath is an open-source advanced packaging and chiplet connectivity framework (part of Conduit Systems) that uses modular approaches like UCIe-style links, 2.5D interposers, and 3D stacking with simulation-driven design for high-bandwidth AI/HPC systems. It enables developers to model bandwidth, latency, thermal performance, and optimize multi-die systems before fabrication under AGPLv3.
@@ -48,6 +52,10 @@ KineticKind is an open-source accessibility-first SUV platform with intelligent 
 - **LAVE (Low-Altitude Vehicle Experiment)**  
 [https://roxanneardary.com/lave/](https://roxanneardary.com/lave/)  
 LAVE is an open-source human-scale hover research platform exploring distributed electric thrust, stabilization, and low-altitude flight with modular ducted units, real-time sensors, and safety systems. It emphasizes telemetry, digital twins, and transparent experimentation for reproducible research.
+
+- **Modular Non-Invasive BCI Engineering Platform**  
+[https://roxanneardary.com/modular-non-invasive-bci-engineering-platform/](https://roxanneardary.com/modular-non-invasive-bci-engineering-platform/)  
+A modular open neuroengineering framework for designing, simulating, and deploying non-invasive brain–computer interface systems through wearable, hardware, ML, sleep, and legal assurance layers.  
 
 - [**TotalRemote Module Specifications**](https://github.com/openarsenalspecs/Hardware/blob/9e98873dfbd64e60e2bbeab27c91f005fbdc66db/TotalRemote.md)    
 [https://roxanneardary.com/totalremote/](https://roxanneardary.com/totalremote/)  
