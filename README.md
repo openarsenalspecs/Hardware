@@ -41,7 +41,7 @@ CNC Companion is an open-source AI-powered tutor for machinists that delivers st
 [https://roxanneardary.com/conduitsystems/](https://roxanneardary.com/conduitsystems/)  
 Conduit Systems is an open-source platform for simulation-driven chiplet integration and data movement optimization in AI/HPC, treating interconnects as first-class components with topology-aware runtime. It integrates with CircuitPath for modeling packaging, scheduling, and performance under AGPLv3.
 
-- **FieldCell Systems**  
+- [**FieldCell Systems Module Specification**](https://github.com/openarsenalspecs/Hardware/blob/a9d6b1d6f27722e5f2f28a92fa08a7fa2d4f57c1/FieldCell%20Systems.md)    
 [https://roxanneardary.com/fieldcellsystems/](https://roxanneardary.com/fieldcellsystems/)  
 FieldCell Systems is an open-source hydrogen energy storage system using electrolysis and fuel cells for modular, repairable, long-duration power storage as an alternative to disposable batteries. It targets homes, farms, and microgrids in a closed-loop water-to-hydrogen cycle under AGPLv3.
 
