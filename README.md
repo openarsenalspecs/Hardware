@@ -21,7 +21,7 @@ At the deployment level, the architecture prioritizes interoperability, scalabil
 
 # Hardware Specs
 
-- **Autonomous Loop**  
+- [**Autonomous Loop Module Specification**](https://github.com/openarsenalspecs/Hardware/blob/15ede5041033c4ea6f531f74db8c7e8d706d8a59/Autonomous%20Loop.md)    
 [https://roxanneardary.com/autonomous-loop/](https://roxanneardary.com/autonomous-loop/)  
 A self-hosted Continuous Improvement Operating System for air-gapped AI factories that enables organizations to monitor, evaluate, govern, and continuously improve AI systems while keeping data and intelligence workflows under their control.
 
