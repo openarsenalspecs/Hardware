@@ -29,7 +29,7 @@ A self-hosted Continuous Improvement Operating System for air-gapped AI factorie
 [https://roxanneardary.com/circuitpath/](https://roxanneardary.com/circuitpath/)  
 CircuitPath is an open-source advanced packaging and chiplet connectivity framework (part of Conduit Systems) that uses modular approaches like UCIe-style links, 2.5D interposers, and 3D stacking with simulation-driven design for high-bandwidth AI/HPC systems. It enables developers to model bandwidth, latency, thermal performance, and optimize multi-die systems before fabrication under AGPLv3.
 
-- **Circulis Aqua**  
+- [**Circulis Aqua Module Specification**](https://github.com/openarsenalspecs/Hardware/blob/07d18745f662d2bd564b35e2c7735be0842695b4/Circulis%20Aqua.md)    
 [https://roxanneardary.com/circulis-aqua/](https://roxanneardary.com/circulis-aqua/)  
 Circulis Aqua is a modular, AI-assisted water infrastructure design system using graph-based models for desalination, purification, reuse, and geospatial distribution that scales from homes to regional grids. It includes AI optimization, predictive maintenance, and dynamic rerouting for resilient, closed-loop water networks.
 
