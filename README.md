@@ -45,7 +45,7 @@ Conduit Systems is an open-source platform for simulation-driven chiplet integra
 [https://roxanneardary.com/fieldcellsystems/](https://roxanneardary.com/fieldcellsystems/)  
 FieldCell Systems is an open-source hydrogen energy storage system using electrolysis and fuel cells for modular, repairable, long-duration power storage as an alternative to disposable batteries. It targets homes, farms, and microgrids in a closed-loop water-to-hydrogen cycle under AGPLv3.
 
-- **KineticKind**  
+- [**KineticKind Module Specification**](https://github.com/openarsenalspecs/Hardware/blob/f45aa685865550df18c41a1f953d056e31fbeb92/KineticKind.md)    
 [https://roxanneardary.com/kinetickind/](https://roxanneardary.com/kinetickind/)  
 KineticKind is an open-source accessibility-first SUV platform with intelligent seat-assist technology, adaptive suspension, and ergonomic features to aid entry/exit for mobility-impaired users. It includes open hardware/software (ESP32, CAN bus, FreeCAD designs), simulation tools, and AGPLv3 licensing.
 
