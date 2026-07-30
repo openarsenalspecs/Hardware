@@ -53,7 +53,7 @@ KineticKind is an open-source accessibility-first SUV platform with intelligent 
 [https://roxanneardary.com/lave/](https://roxanneardary.com/lave/)  
 LAVE is an open-source human-scale hover research platform exploring distributed electric thrust, stabilization, and low-altitude flight with modular ducted units, real-time sensors, and safety systems. It emphasizes telemetry, digital twins, and transparent experimentation for reproducible research.
 
-- **Modular Non-Invasive BCI Engineering Platform**  
+- [**Modular Non-Invasive BCI Engineering Platform Module Specification**](https://github.com/openarsenalspecs/Hardware/blob/6cf576a9d93ef7741e4ac84cd3c36612f432c5b7/Modular%20Non-Invasive%20BCI%20Engineering%20Platform.md)    
 [https://roxanneardary.com/modular-non-invasive-bci-engineering-platform/](https://roxanneardary.com/modular-non-invasive-bci-engineering-platform/)  
 A modular open neuroengineering framework for designing, simulating, and deploying non-invasive brain–computer interface systems through wearable, hardware, ML, sleep, and legal assurance layers.  
 
