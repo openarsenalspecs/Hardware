@@ -49,7 +49,7 @@ FieldCell Systems is an open-source hydrogen energy storage system using electro
 [https://roxanneardary.com/kinetickind/](https://roxanneardary.com/kinetickind/)  
 KineticKind is an open-source accessibility-first SUV platform with intelligent seat-assist technology, adaptive suspension, and ergonomic features to aid entry/exit for mobility-impaired users. It includes open hardware/software (ESP32, CAN bus, FreeCAD designs), simulation tools, and AGPLv3 licensing.
 
-- **LAVE (Low-Altitude Vehicle Experiment)**  
+- [**LAVE (Low-Altitude Vehicle Experiment) Module Specification**](https://github.com/openarsenalspecs/Hardware/blob/27aaeabed73e9c59b1a8ee859ed20317ab9499ff/LAVE.md)    
 [https://roxanneardary.com/lave/](https://roxanneardary.com/lave/)  
 LAVE is an open-source human-scale hover research platform exploring distributed electric thrust, stabilization, and low-altitude flight with modular ducted units, real-time sensors, and safety systems. It emphasizes telemetry, digital twins, and transparent experimentation for reproducible research.
 
