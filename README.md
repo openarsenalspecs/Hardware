@@ -55,7 +55,11 @@ LAVE is an open-source human-scale hover research platform exploring distributed
 
 - [**Modular Non-Invasive BCI Engineering Platform Module Specification**](https://github.com/openarsenalspecs/Hardware/blob/6cf576a9d93ef7741e4ac84cd3c36612f432c5b7/Modular%20Non-Invasive%20BCI%20Engineering%20Platform.md)    
 [https://roxanneardary.com/modular-non-invasive-bci-engineering-platform/](https://roxanneardary.com/modular-non-invasive-bci-engineering-platform/)  
-A modular open neuroengineering framework for designing, simulating, and deploying non-invasive brain–computer interface systems through wearable, hardware, ML, sleep, and legal assurance layers.  
+A modular open neuroengineering framework for designing, simulating, and deploying non-invasive brain–computer interface systems through wearable, hardware, ML, sleep, and legal assurance layers.
+
+- [**OpenFabric Module Specification**](https://github.com/openarsenalspecs/Hardware/blob/ae8e3a2b93e0f5ddf16cb8b03cbfcfd600a4259f/OpenFabric.md)  
+[https://roxanneardary.com/openfabric/](https://roxanneardary.com/openfabric/)  
+OpenFabric is an open, modular Hardware Abstraction Layer specification that provides a universal device layer for edge computing, enabling software, AI systems, and automation platforms to interact with diverse hardware through standardized interfaces. It creates a vendor-neutral foundation for interoperable devices by abstracting hardware capabilities, supporting extensible modules, and reducing fragmentation across connected edge ecosystems.
 
 - [**TotalRemote Module Specifications**](https://github.com/openarsenalspecs/Hardware/blob/9e98873dfbd64e60e2bbeab27c91f005fbdc66db/TotalRemote.md)    
 [https://roxanneardary.com/totalremote/](https://roxanneardary.com/totalremote/)  
