@@ -21,7 +21,7 @@ At the deployment level, the architecture prioritizes interoperability, scalabil
 
 # Hardware Specs
 
-- **Ambientium**  
+- [**Ambientium Module Specification**](https://github.com/openarsenalspecs/Hardware/blob/702f363d7ea47ee5259ff481c2e7535c7925c23b/Ambientium.md)    
 [https://roxanneardary.com/ambientium/](https://roxanneardary.com/ambientium/)  
 Ambientium is an open hardware specification for discovering, evaluating, and developing materials, devices, construction methods, and computational architectures designed for ambient or near-ambient temperature operation. It provides a modular framework for simulation, fabrication, patent-aware design exploration, prototyping, validation, manufacturing, and integration with VigilQuantum.  
 
