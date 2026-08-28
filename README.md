@@ -21,13 +21,13 @@ At the deployment level, the architecture prioritizes interoperability, scalabil
 
 # Hardware Specs
 
-- [**Autonomous Loop Module Specification**](https://github.com/openarsenalspecs/Hardware/blob/15ede5041033c4ea6f531f74db8c7e8d706d8a59/Autonomous%20Loop.md)    
-[https://roxanneardary.com/autonomous-loop/](https://roxanneardary.com/autonomous-loop/)  
-A self-hosted Continuous Improvement Operating System for air-gapped AI factories that enables organizations to monitor, evaluate, govern, and continuously improve AI systems while keeping data and intelligence workflows under their control.
-
 - **Ambientium**  
 [https://roxanneardary.com/ambientium/](https://roxanneardary.com/ambientium/)  
 Ambientium is an open hardware specification for discovering, evaluating, and developing materials, devices, construction methods, and computational architectures designed for ambient or near-ambient temperature operation. It provides a modular framework for simulation, fabrication, patent-aware design exploration, prototyping, validation, manufacturing, and integration with VigilQuantum.  
+
+- [**Autonomous Loop Module Specification**](https://github.com/openarsenalspecs/Hardware/blob/15ede5041033c4ea6f531f74db8c7e8d706d8a59/Autonomous%20Loop.md)    
+[https://roxanneardary.com/autonomous-loop/](https://roxanneardary.com/autonomous-loop/)  
+A self-hosted Continuous Improvement Operating System for air-gapped AI factories that enables organizations to monitor, evaluate, govern, and continuously improve AI systems while keeping data and intelligence workflows under their control.
 
 - [**CircuitPath Module Specification**](https://github.com/openarsenalspecs/Hardware/blob/3cf074fd55872ba8733a189a97ac317fe5d5a368/CircuitPath.md)    
 [https://roxanneardary.com/circuitpath/](https://roxanneardary.com/circuitpath/)  
