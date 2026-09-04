@@ -25,6 +25,10 @@ At the deployment level, the architecture prioritizes interoperability, scalabil
 [https://roxanneardary.com/ambientium/](https://roxanneardary.com/ambientium/)  
 Ambientium is an open hardware specification for discovering, evaluating, and developing materials, devices, construction methods, and computational architectures designed for ambient or near-ambient temperature operation. It provides a modular framework for simulation, fabrication, patent-aware design exploration, prototyping, validation, manufacturing, and integration with VigilQuantum.  
 
+- **Aureon**
+[https://roxanneardary.com/aureon/](https://roxanneardary.com/aureon/)  
+Aureon is an open modular wearable specification for customizable health-monitoring jewelry using interchangeable pendant and choker architectures. It enables users to combine sensors, electronics, software, safety features, automation, and artistic designs while maintaining control over their hardware, data, customization, and device lifecycle.  
+
 - [**Autonomous Loop Module Specification**](https://github.com/openarsenalspecs/Hardware/blob/15ede5041033c4ea6f531f74db8c7e8d706d8a59/Autonomous%20Loop.md)    
 [https://roxanneardary.com/autonomous-loop/](https://roxanneardary.com/autonomous-loop/)  
 A self-hosted Continuous Improvement Operating System for air-gapped AI factories that enables organizations to monitor, evaluate, govern, and continuously improve AI systems while keeping data and intelligence workflows under their control.
@@ -78,6 +82,8 @@ Trionyx is a multi-agent robotic fleet intelligence and scheduling platform for 
 # Specification Branding License (SBL)
 
 Buy the Basket: [https://roxanneardary.com/hardware/](https://roxanneardary.com/hardware/)  
+
+Purchasing a Specification Basket grants the purchaser a perpetual license for attribution-free use of every existing specification included within that category, as well as any additional specifications subsequently added to the category.
 
 ---
 
