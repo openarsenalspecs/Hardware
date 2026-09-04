@@ -25,7 +25,7 @@ At the deployment level, the architecture prioritizes interoperability, scalabil
 [https://roxanneardary.com/ambientium/](https://roxanneardary.com/ambientium/)  
 Ambientium is an open hardware specification for discovering, evaluating, and developing materials, devices, construction methods, and computational architectures designed for ambient or near-ambient temperature operation. It provides a modular framework for simulation, fabrication, patent-aware design exploration, prototyping, validation, manufacturing, and integration with VigilQuantum.  
 
-- **Aureon**
+- [**Aureon Module Specification**](https://github.com/openarsenalspecs/Hardware/blob/b9721466e43ae578c982fd93558748e408410033/Aureon.md)  
 [https://roxanneardary.com/aureon/](https://roxanneardary.com/aureon/)  
 Aureon is an open modular wearable specification for customizable health-monitoring jewelry using interchangeable pendant and choker architectures. It enables users to combine sensors, electronics, software, safety features, automation, and artistic designs while maintaining control over their hardware, data, customization, and device lifecycle.  
 
